@@ -1,0 +1,160 @@
+*{
+  margin:0;
+  padding:0;
+}
+.container-fluid{
+  background-color:#ffcf33;
+  opacity:0.9;
+  height:70px;
+  box-shadow:0 0 10px 0px black;
+}
+
+ /* textarea{
+  width:100%;
+  outline:none;
+  height:90px;
+  display:absolute;
+  top:200px;
+  /* margin-top:10px;
+  margin-bottom:10px; */
+ /* border:none;
+  padding:5px;
+  padding-left:10px;
+  z-index:-2;
+} */
+
+textarea{
+  padding:15px;
+  outline:none;
+  border:none;
+}
+.bdiv{
+  width:100%;
+  /* padding-bottom:30px;
+  position:relative; */
+  
+  
+
+}
+.cdiv{
+  width:100%;
+  
+  outline:none;
+  border:none;
+  
+  font-size:20px;
+  font-weight:bold;
+  padding:5px;
+  
+
+}
+
+.adiv{
+ 
+    
+  display:inline-block;
+  /* flex-direction:column;
+  justify-content:center;
+  align-items:center; */
+  margin-left:50%;
+  margin-top:10%;
+  transform:translate(-50%,-50%);
+  box-shadow:0 0 20px -5px black;
+  
+  
+
+}
+
+.ddiv{
+  background-color:#00e676;
+  border-radius:20px;
+  margin-top:120px;
+  margin-right:20px;
+ 
+  float:right;
+  /* visibility:hidden; */
+}
+
+.ediv{
+  padding:5px;
+  color:orange; 
+  /* border:none; */
+  font-size:20px;
+  border-radius:50px;
+  /* float:right; */
+  /* margin-left:780px;
+  margin-top:-30px; */
+  /* position:absolute;
+  margin-left:780px; */
+  
+  outline:none;
+  background-color:white;
+  
+}
+.ediv:hover{
+  color:white;
+  background-color:orange;
+}
+
+.fdiv{
+  width:60px;
+  height:60px;
+  float:right;
+  border:none;
+  
+  position:absolute;
+  /* left:780px;
+  top:52px; */
+  
+}
+
+.aadiv{
+  width:20%;
+  height:20%;
+  margin-left:40px;
+  margin-top:5%;
+  display:inline-block;
+  /* box-shadow:5px 5px 20px 10px black; */
+  box-shadow:0 0 20px -5px black;
+  
+  /* flex-direction:row;
+  justify-content:flex-start;
+  align-items:flex-start; */
+  /* padding:10px; */
+
+}
+
+/* .aadiv p{
+  width:400px;
+  height:100px;
+  margin-top:10px;
+ 
+} */
+
+.aadiv Button{
+  
+  /* margin-left:320px; */
+  float:right;
+  height:50px;
+  width:50px;
+  border-radius:50%;
+  outline:none;
+  /* margin-bottom:10px; */
+  background-color:white;
+  color:orange;
+}
+
+.aadiv p,h1{
+  padding:5px;
+}
+.aadiv Button:hover{
+  background-color:orange;
+  color:white;
+}
+
+.footer{
+  width:100%;
+  height:50px;
+  position:absolute;
+  margin-top:25%;
+}
