@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tiwarykeep/static/css/main.0fde5b05.chunk.css",
-    "main.js": "/tiwarykeep/static/js/main.7e20190f.chunk.js",
-    "main.js.map": "/tiwarykeep/static/js/main.7e20190f.chunk.js.map",
+    "main.js": "/tiwarykeep/static/js/main.47dc5ff4.chunk.js",
+    "main.js.map": "/tiwarykeep/static/js/main.47dc5ff4.chunk.js.map",
     "runtime-main.js": "/tiwarykeep/static/js/runtime-main.855dadd8.js",
     "runtime-main.js.map": "/tiwarykeep/static/js/runtime-main.855dadd8.js.map",
     "static/css/2.58dcbf32.chunk.css": "/tiwarykeep/static/css/2.58dcbf32.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.58dcbf32.chunk.css",
     "static/js/2.0a48848c.chunk.js",
     "static/css/main.0fde5b05.chunk.css",
-    "static/js/main.7e20190f.chunk.js"
+    "static/js/main.47dc5ff4.chunk.js"
   ]
 }
